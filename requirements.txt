@@ -1,0 +1,9 @@
+mss
+colorama
+requests
+cryptography
+essential_generators
+PyInstaller
+six
+python-xlib
+py32win
