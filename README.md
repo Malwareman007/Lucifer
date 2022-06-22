@@ -1,4 +1,10 @@
 <h1 align="center">Lucifer</h1>
+
+<p align="center">   
+    
+<img src="https://media3.giphy.com/media/l4FGFQHfrDnTalYvS/giphy.gif"/>
+
+</p>
 <p align="center">
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
@@ -14,13 +20,14 @@
   </a>
 </p>
 
-
+---
+---
 
 <p align="center">
   Lucifer is a RAT (Remote Administrator Trojan) Generator for Windows/Linux systems written in Python 3.
 </p>
               
-                        This small python script can do really awesome work.
+***This small python script can do really awesome work.***
 
 ## Disclaimer
 <p align="center">
